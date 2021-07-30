@@ -320,7 +320,7 @@ def timespan(start_isodate, end_isodate, **kwargs):
         options.bottom_grid = num_years * options.year_height
 
     # Set the bounds of the viewport such that the entire map can be viewed.
-    dwg.viewbox(width=options.right_grid+150, height=options.bottom_grid+50)
+    dwg.viewbox(width=options.right_grid+250, height=options.bottom_grid+50)
 
     # Set grid variables
     global underhang_offset, weekday_left_grid, weekday_right_grid, weekend_right_grid, age_left, age_right, event_line_x, top_grid, top_label_y
