@@ -1,0 +1,16 @@
+type	intensity	label	start_date	end_date	weekday_start	weekday_end	weekend_hours	href	title	slot	rest
+option		year_height	52								
+option		legend									
+timespan			1995-04-18	2021-07-29							
+event		Arrived on Sol III	1995-04-18	1995-04-18							
+home		Dripping Springs TX	1995-04-18	2011-02-08							
+home		Mill St, San Marcos TX	2011-04-01	2015-11-20							
+home		Post Rd, San Marcos TX	2015-11-20	2016-07-20							
+home		Lady Bird Lane, San Marcos TX	2016-07-20	2019-12-01							
+home		Deaton Hill, Austin TX	2018-12-01	2020-02-18							
+home		Corpus Christi TX	2020-02-18								
+roommate	3	SH	1995-04-18	2011-02-08						1	
+roommate	3	JH	1995-04-18	2015-11-20						2	
+roommate	3	RAH	1997-12-15	2015-11-20						3	
+roommate	3	BRH	2001-06-21	2015-11-20						4	
+roommate	3	LJH	2003-01-16	2015-11-20						5	
