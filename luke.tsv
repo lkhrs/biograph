@@ -1,5 +1,5 @@
 type	intensity	label	start_date	end_date	weekday_start	weekday_end	weekend_hours	href	title	slot	rest
-option		year_height	52								
+option		year_height	90								
 option		legend									
 timespan			1995-04-18	2021-07-29							
 event		Arrived on Sol III	1995-04-18	1995-04-18							
@@ -9,10 +9,28 @@ home		Post Rd, San Marcos TX	2015-11-20	2016-07-20
 home		Lady Bird Lane, San Marcos TX	2016-07-20	2019-12-01							
 home		Deaton Hill, Austin TX	2018-12-01	2020-02-18							
 home		Corpus Christi TX	2020-02-18								
+school	1	Homeschooled	1999	2012	09	17					
 roommate	2	SH	1995-04-18	2011-02-08						1	
 roommate	2	JH	1995-04-18	2015-11-20						2	
 roommate	2	RAH	1997-12-15	2015-11-20						3	
 roommate	2	BRH	2001-06-21	2015-11-20						4	
 roommate	2	LJH	2003-01-16	2015-11-20						5	
-event		Earliest dated memory	1997-04-18	1997-04-18							
+roommate	1	Lauren	2020-02-18								
+roommate	1	Luke	2016-11-01	2018-12-01							
+roommate	2	Chris	2016-07-20	2016-09-20							
+roommate	2	Micah	2018-12-01	2020-02-18							
+event		Turned 2 (earliest dated memory)	1997-04-18	1997-04-18							
 event		Car hits deer; sister born	1997-12-15	1997-12-15							
+event		Met Lauren	2016-05-26	2016-05-26							
+event		First computer	2004	2004							
+event		Built first website (forum)	2010-10-05	2010-10-05							
+event		Broadband Internet (prev. dialup)	2011-04-01	2011-04-01							
+event		Met Kolton	2010-12-01	2010-12-01							
+love	2	Rebekah	2014-12-05	2016-01-05			10			1	
+love	1	Ana	2016-07-20	2016-08-20			6			2	
+love	3	Lauren	2016-10-18				24				
+work	1	Ella Lofts	2016-10-15	2017-04-01	07	20	20				
+play	1	Church (ACF)	2003	2008			4				
+play	2	Church (GH)	2008	2011			4				
+play	1	Church (HCC)	2011	2016			3				
+play	2	Church (Eikon)	2016	2017			2				
