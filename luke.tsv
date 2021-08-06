@@ -1,5 +1,5 @@
 type	intensity	label	start_date	end_date	weekday_start	weekday_end	weekend_hours	href	title	slot	rest
-option		year_height	90								
+option		year_height	120								
 option		legend									
 timespan			1995-04-18	2021-08-04							
 event		Arrived on Sol III	1995-04-18	1995-04-18							
@@ -18,9 +18,9 @@ roommate	2	LJH	2003-01-16	2015-11-20						5
 roommate	2	Lauren	2020-02-18							1	
 roommate	1	1	2015-11-20	2016-07-20						3	
 roommate	1	2	2015-11-20	2016-07-20						2	
-roommate	1	Luke	2016-11-01	2018-12-01							
-roommate	2	Chris	2016-07-20	2016-09-20							
-roommate	2	Micah	2018-12-01	2020-02-18							
+roommate	1	Luke L.	2016-11-01	2018-12-01						1	
+roommate	2	Chris	2016-07-20	2016-09-20						1	
+roommate	2	Micah	2018-12-01	2020-02-18						1	
 roommate	1	Oliver 🐱	2020-02-18							2	
 roommate	1	Clementine 🐱	2020-02-18							3	
 roommate	1	Bo 🐱	2020-09							4	
