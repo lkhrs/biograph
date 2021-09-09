@@ -18,9 +18,9 @@ roommate	2	LJH	2003-01-16	2015-11-20						5
 roommate	2	Lauren	2020-02-18							1	
 roommate	1	1	2015-11-20	2016-07-20						3	
 roommate	1	2	2015-11-20	2016-07-20						2	
-roommate	1	Luke	2016-11-01	2018-12-01							
-roommate	2	Chris	2016-07-20	2016-09-20							
-roommate	2	Micah	2018-12-01	2020-02-18							
+roommate	1	Luke L.	2016-11-01	2018-12-01						1	
+roommate	2	Chris	2016-07-20	2016-09-20						1	
+roommate	2	Micah	2018-12-01	2020-02-18						1	
 roommate	1	Oliver 🐱	2020-02-18							2	
 roommate	1	Clementine 🐱	2020-02-18							3	
 roommate	1	Bo 🐱	2020-09							4	
@@ -29,13 +29,13 @@ roommate	1	Doughboy 🐱	2020-09							6
 roommate	1	Taro 🐱	2020-09							7	
 event		Turned 2 (earliest dated memory)	1997-04-18	1997-04-18							
 event		Car hits deer; sister born	1997-12-15	1997-12-15							
-event		Solo trip to Leakey TX	2016-03-05	2016-03-05							
 event		Met Lauren at Zelik's bar	2016-05-26	2016-05-26							
 event		Visited Lauren's parents	2016-11-21	2016-11-21							
 event		Roadtrip to Kansas City with Lauren	2017-04-29	2017-04-29							
 event		Trip to San Francisco with Lauren	2018-05	2018-05							
 event		Honeymoon to Vancouver BC and Whitehorse Yukon	2020-03-31	2020-03-31					actual 3-01		
 event		2016 Ford Transit Connect XLT	2017-04	2017-04							
+event		Trip to Leakey	2016-03-05	2016-03-05							
 event		2013 VW Jetta S	2015-08	2015-08							
 event		2007 VW Jetta Wolfsburg	2015-07	2015-07							
 event		Driver's license	2015-06	2015-06							
@@ -51,7 +51,9 @@ event		ACL 2017	2017-10	2017-10
 event		SXSW 2017; met Tommy Wiseau	2017-3	2017-3							
 event		SXSW 2018	2018-3	2018-3							
 event		ACL 2019	2019-10	2019-10							
-event		Trip to Ocala FL	2019-07-25	2019-07-25							
+event		Trip to Ocala FL	2019-07	2019-07							
+event		Trip to Chicago IL	2019-08	2019-08							
+event		2nd trip to Chicago IL	2019-11	2019-11							
 event		Trip to FL 2001	2001	2001							
 event		Trip to FL 2005	2005	2005							
 event		Proposed	2019-05-19	2019-05-19							
